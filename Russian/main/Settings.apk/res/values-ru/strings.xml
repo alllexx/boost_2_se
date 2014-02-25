@@ -2068,4 +2068,6 @@
     <string name="add_more">Другие...</string>
     <string name="app_activity">Кнопка быстрого запуска</string>
     <string name="app_name">Кнопка быстрого запуска</string>
+	<string name="usuall_setting_activity_title">Быст. Настройки</string>
+    <string name="all_setting_activity_title">Настройки</string>
 </resources>
