@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="sub_list">
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Примечание</item>
+    </string-array>
+</resources>

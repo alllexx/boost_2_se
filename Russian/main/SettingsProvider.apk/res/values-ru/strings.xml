@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_label">Хранилище настроек</string>
+    <string name="name_sim1">SIM 1</string>
+    <string name="name_sim2">SIM 2</string>
+</resources>

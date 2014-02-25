@@ -1,0 +1,40 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: tSjADJubxgaKJqAgaxfopZbSpWA=
+
+Name: res/xml/wallpaper.xml
+SHA1-Digest: lGx/r0rQ0cihPuWYWVooKm+YQXI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: RXhFb36BrVe9jwORt5dZLM9uNnY=
+
+Name: res/raw/vertex_geometry.glslv
+SHA1-Digest: OmzbW0mJ34zhGuzJA+PF89UdpRA=
+
+Name: res/raw/holo_spiral.bc
+SHA1-Digest: tFUfmPKSE/q2KqmWokYiUpf1/YA=
+
+Name: res/raw/vertex_background.glslv
+SHA1-Digest: MPYU+XQPGg+64Y5XPL5MH1cBmLY=
+
+Name: res/drawable-mdpi/wallpaper_thumb.png
+SHA1-Digest: obFfXctFbljlgk/BrB7ws3TlNjs=
+
+Name: res/drawable-nodpi/points_red_green.png
+SHA1-Digest: fJHcyuZcmqZfy8UcWuBD7G1bh2I=
+
+Name: res/raw/fragment_background.glslf
+SHA1-Digest: mjyzY02Lpq8kqeG4da9lITookGA=
+
+Name: resources.arsc
+SHA1-Digest: 4iHXN88ZfUq319WY0pJ+HHKdnq0=
+
+Name: classes.dex
+SHA1-Digest: ZK7SHPr5gToLuynUdKBVnK+g9HU=
+
+Name: res/drawable-hdpi/wallpaper_thumb.png
+SHA1-Digest: 3OyuOJTeuEcTEw+Rn3vnIMykGTk=
+
+Name: res/raw/fragment_geometry.glslf
+SHA1-Digest: HY8Fq7JPSVVOAGHdWcd8vhD42B8=
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">найдено %d</item>
+        <item quantity="one">найден 1</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d голосовых сообщений</item>
+        <item quantity="one">Голосовая почта</item>
+    </plurals>
+</resources>

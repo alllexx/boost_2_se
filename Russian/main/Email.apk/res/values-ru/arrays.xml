@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Очень мелкий текст</item>
+        <item>Мелкий текст</item>
+        <item>Текст обычного размера</item>
+        <item>Крупный текст</item>
+        <item>Огромный текст</item>
+    </string-array>
+</resources>

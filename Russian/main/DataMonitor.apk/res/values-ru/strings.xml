@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="widget_traffic_brief">Монитор трафика(brief)</string>
+    <string name="widget_traffic">Монитор трафика</string>
+    <string name="setting_name">Монитор трафика</string>
+    <string name="network_being_enabled">Передача мобильных данных активна</string>
+</resources>

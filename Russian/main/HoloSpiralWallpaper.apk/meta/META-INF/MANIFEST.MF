@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_32 (Sun Microsystems Inc.)
+
+Name: res/xml/wallpaper.xml
+SHA1-Digest: ORrG3SYaZewIInhUWB36Ah/MTg0=
+
+Name: res/raw/vertex_geometry.glslv
+SHA1-Digest: bmoV1UHLSJM8BXNz9cQIAZZfjJU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: xPFGicYgbfq4w18eRDxL2/zAstw=
+
+Name: res/raw/vertex_background.glslv
+SHA1-Digest: OKZnpHywgnc7WvNgliFszOvcKFY=
+
+Name: res/raw/holo_spiral.bc
+SHA1-Digest: 3vFwul1WztNP4AljErL1KOT7YGw=
+
+Name: res/drawable-mdpi/wallpaper_thumb.png
+SHA1-Digest: YgLanwZzZChwo5RV0opxRcFKw5c=
+
+Name: res/drawable-nodpi/points_red_green.png
+SHA1-Digest: T5C32n2QDhU54ZATTp7KsWT7CKg=
+
+Name: res/raw/fragment_background.glslf
+SHA1-Digest: uvt0CGbh8nZZ0EIHJX9tO+BnPEw=
+
+Name: resources.arsc
+SHA1-Digest: oD0ihDIdIjI2e1jF2leU1g/L9J8=
+
+Name: res/drawable-hdpi/wallpaper_thumb.png
+SHA1-Digest: 6Hrq9ySJSVB39k4b61cUX8o14zo=
+
+Name: classes.dex
+SHA1-Digest: om9okfGpNV8Wp3n7/gYFdSzlqUA=
+
+Name: res/raw/fragment_geometry.glslf
+SHA1-Digest: EZJhIfwE+HXF183D6KrGIVA/SiM=
+

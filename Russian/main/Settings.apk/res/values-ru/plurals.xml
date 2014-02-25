@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Вы скоро (%1$d) станете разработчиком.</item>
+        <item quantity="one">Вы скоро (%1$d) станете разработчиком.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль должен содержать не менее %d букв.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 букву.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль должен содержать не менее %d букв нижнего регистра.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 букву нижнего регистра.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль должен содержать не менее %d букв верхнего регистра.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 букву верхнего регистра.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль должен содержать не менее %d цифр.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 цифру</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль должен содержать не менее %d специальных символов.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 специальный символ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль должен содержать не менее %d символов, отличных от букв.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 символ, отличный от буквы.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d приложения могут читать уведомления</item>
+        <item quantity="one">%d приложение может читать уведомления</item>
+    </plurals>
+</resources>

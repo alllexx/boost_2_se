@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_name">Контакты на SIM</string>
+    <string name="account_sim">SIM-карта</string>
+    <string name="account_phone">ТЕЛЕФОН</string>
+</resources>

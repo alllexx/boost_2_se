@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="tips">
+        <item>"Просмотрите все свои приложения.
+ Коснитесь значка программы запуска. @drawable/all_apps"</item>
+        <item>"Перетащите приложения на свой главный экран.
+ Коснитесь и удерживайте значок приложения в программе запуска, пока он не начнет вибрировать."</item>
+        <item>"Изменить вид главного экрана.
+ Коснитесь и удерживайте значок элемента, а когда он начнет вибрировать, перетащите его в нужное место."</item>
+        <item>"Удалить элементы.
+ Коснитесь и удерживайте значок элемента, а когда он начнет вибрировать, перетащите его на значок корзины. @drawable/trash"</item>
+        <item>"Несколько главных экранов.
+ Проведите пальцем влево или вправо для переключения. Перетащите элементы на другие экраны."</item>
+        <item>"Закончили использовать виджет?
+ Коснитесь и удерживайте его значок, а когда он начнет вибрировать, перетащите его на значок корзины."</item>
+    </string-array>
+    <string-array name="tips2">
+        <item>"Home is a garden 
+Touch &amp;amp; hold an empty spot 
+To grow new icons"</item>
+        <item>"Phone isn’t waterproof 
+Do not immerse in water 
+or other fluids"</item>
+        <item>"Want some more home screens? 
+Swipe left and right to find them 
+(No theft required)"</item>
+        <item>"Little Home screen dots 
+What could they possibly do? 
+Touch &amp;amp; hold to learn."</item>
+        <item>"Status bar icons 
+To discover their secrets 
+Pull the windowshade"</item>
+        <item>"There is a trick to 
+Dragging items twixt Home screens 
+Pause at the edges"</item>
+        <item>"Touch Market for apps 
+Like a box of chocolates 
+Each one a surprise"</item>
+        <item>"Oh, and by the way: 
+Ceci n’est pas une trombone 
+I am an Android"</item>
+    </string-array>
+</resources>

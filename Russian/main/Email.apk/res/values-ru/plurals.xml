@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="move_messages">
+        <item quantity="other">Переместить сообщения</item>
+        <item quantity="one">Переместить сообщение</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d непрочитанных (%2$s)</item>
+        <item quantity="one">%1$d непрочитанных (%2$s)</item>
+        <item quantity="few">%1$d непрочитанных (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">в %d учетных записях</item>
+        <item quantity="few">в %d учетных записях</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%1$d учетных записей</item>
+        <item quantity="one">%1$d учетная запись</item>
+    </plurals>
+    <plurals name="picker_combined_view_account_count">
+        <item quantity="other">%d учетных записей</item>
+        <item quantity="one">%d учетная запись</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d выбранных</item>
+        <item quantity="one">%d выбранных</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">Вложения %1$d</item>
+        <item quantity="one">Вложение %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Удалить эти сообщения?</item>
+        <item quantity="one">Удалить это сообщение?</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Сообщения удалены.</item>
+        <item quantity="one">Сообщение удалено.</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$d сообщений перемещено в %2$s</item>
+        <item quantity="one">%1$d сообщение перемещено в %2$s</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="one">%dMB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d результатов из %2$s</item>
+        <item quantity="one">%1$d результат из %2$s</item>
+    </plurals>
+</resources>

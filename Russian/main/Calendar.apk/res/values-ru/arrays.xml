@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="reminder_methods_labels">
+        <item>Уведомление</item>
+        <item>Эл. почта</item>
+        <item>SMS</item>
+        <item>Будильник</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 минут</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часа</item>
+        <item>24 часа</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Нет</item>
+        <item>0 минут</item>
+        <item>1 минута</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>12 часа</item>
+        <item>24 часа</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Язык по умолчанию</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Не беспокоить</item>
+        <item>На месте</item>
+        <item>Предварительно</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>По умолчанию</item>
+        <item>Частные</item>
+        <item>Общедоступные</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>первый</item>
+        <item>второй</item>
+        <item>третий</item>
+        <item>четвертый</item>
+        <item>последний</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Нет ответа</item>
+        <item>Да</item>
+        <item>Может быть</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Только это событие</item>
+        <item>Это и будущие события</item>
+        <item>Все события</item>
+    </string-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Это и будущие события</item>
+        <item>Все события</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Только это событие</item>
+        <item>Все события в группе</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+        <item>Содержание</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Только если отклонено</item>
+        <item>Если отклонено или нет ответа</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ПОВТОР ЕЖЕДНЕВНО</item>
+        <item>ПОВТОР ЕЖЕНЕДЕЛЬНО</item>
+        <item>ПОВТОР ЕЖЕМЕСЯЧНО</item>
+        <item>ПОВТОР ЕЖЕГОДНО</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>каждое первое воскресенье</item>
+        <item>каждое второе воскресенье</item>
+        <item>каждое третье воскресенье</item>
+        <item>каждое четвертое воскресенье</item>
+        <item>каждое последнее воскресенье</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>каждый первый понедельник</item>
+        <item>каждый второй понедельник</item>
+        <item>каждый третий понедельник</item>
+        <item>каждый четвертый понедельник</item>
+        <item>каждый последний понедельник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>каждый первый вторник</item>
+        <item>каждый второй вторник</item>
+        <item>каждый третий вторник</item>
+        <item>каждый четвертый вторник</item>
+        <item>каждый последний вторник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>каждую первую среду</item>
+        <item>каждую вторую среду</item>
+        <item>каждую третью среду</item>
+        <item>каждую четвертую среду</item>
+        <item>каждую последнюю среду</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>каждый первый четверг</item>
+        <item>каждый второй четверг</item>
+        <item>каждый третий четверг</item>
+        <item>каждый четвертый четверг</item>
+        <item>каждый последний четверг</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>каждую первую пятницу</item>
+        <item>каждую вторую пятницу</item>
+        <item>каждую третью пятницу</item>
+        <item>каждую четвертую пятницу</item>
+        <item>каждую последнюю пятницу</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>каждую первую субботу</item>
+        <item>каждую вторую субботу</item>
+        <item>каждую третью субботу</item>
+        <item>каждую четвертую субботу</item>
+        <item>каждую последнюю субботу</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Я опаздываю всего лишь на несколько минут.</item>
+        <item>Буду примерно через 10 минут.</item>
+        <item>Не откладывайте и начинайте без меня.</item>
+        <item>К сожалению, у меня не получается. Нам нужно перенести это на другое время.</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+        <item>Центр. Австралия – Сев. терр.</item>
+        <item>Центр. Австралия – Юж. Австралия</item>
+        <item>Восточная Австралия – Квинсленд</item>
+        <item>Вост. Австралия – Нов. Юж. Уэльс</item>
+        <item>Горное стандартное – Досон-Крик</item>
+        <item>Средне-амер. станд. – Саскачеван</item>
+        <item>Восточно-амер. станд. – Атикокан</item>
+        <item>Атлантическое станд. – Квебек</item>
+        <item>Гавайи и Алеуты – Гавайские о-ва</item>
+        <item>Гавайи и Алеуты – Аляска</item>
+        <item>Тихоокеанск. станд. – Метлакатла</item>
+        <item>Горное стандартное – Аризона</item>
+        <item>Тихоокеанское – Нижн. Калифорния</item>
+        <item>Горное – Чиуауа</item>
+        <item>Центральное – Тамаулипас</item>
+        <item>Горное – Сонора</item>
+        <item>Восточноафриканское время</item>
+        <item>Атлантическое стандартное время</item>
+        <item>Атлантическое стандартное время</item>
+        <item>Восточноевропейское время</item>
+        <item>Время Калининграда</item>
+        <item>Амазонское – Рондония</item>
+        <item>Бразилия – Пара</item>
+    </string-array>
+    <string-array name="backup_country_names">
+        <item>Синт-Мартен</item>
+        <item>Карибские Нидерланды</item>
+        <item>Кюрасао</item>
+        <item>Южный Судан</item>
+    </string-array>
+</resources>

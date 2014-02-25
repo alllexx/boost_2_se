@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="emailAddressTypes">
+        <item>Главная страница</item>
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Специальный</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Специальный</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Главная страница</item>
+        <item>Мобильные устройства</item>
+        <item>Рабочий</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
+        <item>Другое</item>
+        <item>Специальный</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Главная страница</item>
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Специальный</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Главная страница</item>
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Специальный</item>
+    </string-array>
+</resources>

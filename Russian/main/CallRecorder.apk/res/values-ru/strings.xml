@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="title_record">Запись вызова</string>
+    <string name="discard">Отменить</string>
+    <string name="accept">Принять</string>
+    <string name="message_no_sdcard">Вставьте SD-карту</string>
+    <string name="message_internal_error">Ошибка при записи</string>
+    <string name="message_success">Файл сохранен в %1$s</string>
+    <string name="message_record_started">Запись начата</string>
+    <string name="message_recording">Запись вызова</string>
+    <string name="message_not_incall">Включается только во время вызова</string>
+    <string name="message_sdcard_full">Нет места в вашем внешнем хранилище</string>
+</resources>
